@@ -228,7 +228,8 @@ margin-top:15px;
 }
 .footer{
     margin-top:5px;
-    
+
+
 }
 .foot-panel1{
     background-color:#37475a;
@@ -238,6 +239,18 @@ margin-top:15px;
     justify-content:center;
     align-items:center;
     font-size:1.0rem;
+}
+.foot-panel2{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:#222f3d;
+    color:white;
+    height:500px;
 
-
+}
+.foot-panel2 a{
+    display:block;
+    font-size:0.85rem;
+    margin-top:10px;
+    color:#dddddd;
 }
