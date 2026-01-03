@@ -240,6 +240,7 @@ margin-top:15px;
     justify-content:center;
     align-items:center;
     font-size:1.0rem;
+   
 }
 .foot-panel2{
     display:flex;
@@ -247,11 +248,17 @@ margin-top:15px;
     background-color:#222f3d;
     color:white;
     height:500px;
+    text-align:center;
+    
+
+}
+.foot-panel2 p{
+    font-size:1.2rem;
 
 }
 .foot-panel2 a{
     display:block;
-    font-size:0.85rem;
+    font-size:1rem;
     margin-top:10px;
     color:#dddddd;
 }
@@ -259,7 +266,7 @@ margin-top:15px;
     background-color:#222f3d;
     color:white;
     border-top: 0.5px solid white;
-    height:70px;
+    height:68px;
     display:flex;
     justify-content:center;
     align-items:center;
